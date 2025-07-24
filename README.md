@@ -10,4 +10,4 @@ This repo is based on the phenomenal work by NeetCode:
 
 🌐 Website: https://neetcode.io/
 
-All educational credit goes to NeetCode. This repo serves as a learning companion and personal implementation log.
+All educational credit goes to NeetCode.
