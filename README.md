@@ -1,5 +1,5 @@
 # NeetCode 150 🧠💻
-A curated collection of LeetCode solutions following the NeetCode 150 roadmap.
+A curated collection of LeetCode solutions following the NeetCode 150 roadmap on Python.
 
 This repository is built for mastering data structures and algorithms in a structured, efficient way — ideal for preparing for FAANG-level interviews.
 
